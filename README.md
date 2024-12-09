@@ -1,3 +1,31 @@
+# nextjs-invoices-course-postgresql-auth-tailwind
+
+# 🚀  🚀
+
+https://github.com/coding-to-music/nextjs-invoices-course-postgresql-auth-tailwind
+
+From / By https://github.com/lllariogonzalez/nextjs-dashboard
+
+https://nextjs-dashboard-acme.vercel.app/dashboard
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/nextjs-invoices-course-postgresql-auth-tailwind.git
+git push -u origin main
+```
+
+## Environment variables:
+
+```java
+
+```
+
 # Acme dashboard full web application.
 
 ![Acme full web application](https://nextjs.org/_next/image?url=%2Flearn%2Fcourse-explainer.png&w=750&q=75&dpl=dpl_Ejtt9BCyCFNeRJdBoVsM9Es9x8xe)
