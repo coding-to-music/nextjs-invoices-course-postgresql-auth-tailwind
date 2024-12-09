@@ -1,6 +1,6 @@
 # nextjs-invoices-course-postgresql-auth-tailwind
 
-# 🚀  🚀
+# 🚀 Next.js 14 dashboard-app example for the Next.js App Router Course 🚀
 
 https://github.com/coding-to-music/nextjs-invoices-course-postgresql-auth-tailwind
 
