@@ -8,6 +8,10 @@ From / By https://github.com/lllariogonzalez/nextjs-dashboard
 
 https://nextjs-dashboard-acme.vercel.app/dashboard
 
+https://nextjs.org/learn/dashboard-app
+
+https://nextjs.org/learn/react-foundations
+
 ## GitHub
 
 ```java
